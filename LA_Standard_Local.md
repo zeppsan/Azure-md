@@ -54,7 +54,7 @@ Although this is not the recommended way to upload workflows (pipelines are idea
 --- 
 
 ## Run workflow locally
-1. Let's start with some neccesary configuration. Open the `local.settings.json` in the root of your project and make sure that the following config is present: 
+1. Let's start with some neccesary configuration. Open the `local.settings.json` in the root of your project and make sure that the following config is present. The dummy values should be replaced with the values that are currently in your config file. 
 ```
 {
   "IsEncrypted": false,
