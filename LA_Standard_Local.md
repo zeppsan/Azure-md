@@ -5,8 +5,10 @@ This documents holds a short guide of how to develop and run Logic apps (Standar
 
 ## Tools
 Tools that needs to be installed on your machine. 
-- azure-functions-core-tools@4 [Installation Guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v4%2Cmacos%2Ccsharp%2Cportal%2Cbash)
+- Azure-functions-core-tools@4 [Installation Guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v4%2Cmacos%2Ccsharp%2Cportal%2Cbash)
 - Visual Studio Code [Website](https://code.visualstudio.com/)
+- .NET SDK ([Windows](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks) | [MacOS](https://dotnet.microsoft.com/en-us/download))
+  
 
 ## Visual Studio Code Extensions 
 To ensure a seamless development experience when working with Logic Apps (Standard), it is necessary to install the following extensions in Visual Studio Code.
